@@ -1,1 +1,1 @@
-# Companion-Arbiter-PUF
+# CS771-assign
